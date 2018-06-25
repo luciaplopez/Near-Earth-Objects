@@ -23,7 +23,7 @@ These are the links that will be usefull for searching information about the cou
 * [ESO: European Southern Observatory](http://www.eso.org/public/): intergovernmental astronomy organisation in Europe, the headquarters are located in Garching (Munich).
 * [Asteroid Day](https://asteroidday.org): 30th June
 
-## Not so relevant for students but for companies
+### Not so relevant for students but for companies
 
 * [ESA Open Invitations To Tender / Global List](http://emits.sso.esa.int/emits/owa/emits.main)
 
