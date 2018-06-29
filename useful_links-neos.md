@@ -14,6 +14,7 @@ These are the links that will be usefull for searching information about the cou
 * [Minor Planet Center](https://www.minorplanetcenter.net)
 * [Copernicus Open Access Hub](https://scihub.copernicus.eu): provides complete, free and open access to Sentinel-1, Sentinel-2 and Sentinel-3 user products, starting from the In-Orbit Commissioning Review (IOCR).
 * [Impact: Earth!](https://www.purdue.edu/impactearth/)
+* [Earth Impact Effects Program](https://impact.ese.ic.ac.uk/ImpactEarth/ImpactEffects/)
 * [Asteroid Density, Porosity, and Structure](https://www.lpi.usra.edu/books/AsteroidsIII/pdf/3022.pdf)
 * [Sky and Telescope](https://www.skyandtelescope.com): the essential guide to astronomy
 * [American Meteor Society](https://www.amsmeteors.org/home.html)
